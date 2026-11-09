@@ -1,0 +1,2 @@
+Block Wrecker (c) Tiny Lantern Games. All rights reserved.
+Third-party: three.js (MIT, licenses/THREE_LICENSE.txt), cannon-es (MIT, licenses/CANNON_LICENSE.txt).
